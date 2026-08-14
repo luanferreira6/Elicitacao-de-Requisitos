@@ -1,5 +1,6 @@
 
 Acompanhar pedido
+
 História de usuário:
 Como usuário, quero acompanhar o status do meu pedido, para saber onde o pedido se encontra.
 Critérios de aceitação:
@@ -8,6 +9,7 @@ Critérios de aceitação:
 - Dado que o pedido foi entregue, quando o usuário consultar o acompanhamento, então o sistema deve informar que o pedido foi concluído.
 
 Item indisponível
+
 História de usuário:
 Como restaurante, quero informar quando um item do cardápio estiver indisponível, para evitar que clientes façam pedidos de produtos que não estão em estoque.
 Critérios de aceitação:
@@ -16,6 +18,7 @@ Critérios de aceitação:
 - Dado que um item está indisponível, quando um cliente tentar adicioná-lo ao pedido, então o sistema não deve permitir sua inclusão.
 
 Reportar problema durante a entrega
+
 História de usuário:
 Como entregador, quero reportar problemas durante uma entrega, para informar os responsáveis.
 Critérios de aceitação:
